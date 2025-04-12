@@ -1,0 +1,13 @@
+src/
+├── com.onuratilla._javafx.dao/
+│   ├── UserDAO.java
+│   ├── DBConnection.java
+├── com.onuratilla._javafx.dto/
+│   ├── UserDTO.java
+├── com.onuratilla._javafx.controller/
+│   ├── LoginController.java
+│   ├── RegisterController.java
+├── view/
+│   ├── login.fxml
+│   ├── register.fxml
+├── MainApp.java
